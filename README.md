@@ -1,6 +1,4 @@
-# binary-sentiment-classification-of-tweets
-Binary Sentiment Classification of Tweets
-
+# Binary Sentiment Classification of Tweets
     You would need the following files:
 
     1) glove.twitter.27B.200d.txt
